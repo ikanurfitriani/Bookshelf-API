@@ -6,11 +6,11 @@ This repository contains code archives for Final Project Dicoding Course Belajar
 Bookshelf-API/
 │
 ├── src/
-│   │   ├── books.js
-│   │   ├── handler.js
-│   │   ├── routes.js
-│   │   └── server.js
-│   │            
+│   ├── books.js
+│   ├── handler.js
+│   ├── routes.js
+│   └── server.js
+│               
 ├── Bookshelf API Test.postman_test_run.json
 ├── package-lock.json
 ├── package.json
